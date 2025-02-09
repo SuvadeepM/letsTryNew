@@ -1,0 +1,1 @@
+console.log("Bhaskar is a chutiya");
